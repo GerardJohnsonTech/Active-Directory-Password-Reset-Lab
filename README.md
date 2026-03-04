@@ -1,6 +1,6 @@
 # Active-Directory-Password-Reset-Lab
 
-Objective
+### Objective
 Practice resetting passwords and managing account lockouts in Active Directory
 
 Skills Practiced
