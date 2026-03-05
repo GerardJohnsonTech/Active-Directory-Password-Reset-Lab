@@ -1,6 +1,7 @@
 # Active-Directory-Password-Reset-Lab
 
 ### Objective
+
 Practice resetting passwords and managing account lockouts in Active Directory
 </p>
 <br />
@@ -49,3 +50,5 @@ Practice resetting passwords and managing account lockouts in Active Directory
 <p>
   
 ### Outcome
+
+Demonstrated the ability to manage user passwords and resolve login issues within an Active Directory domain.
