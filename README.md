@@ -8,12 +8,18 @@ Practice resetting passwords and managing account lockouts in Active Directory
 <p>
   
 ### Skills Practiced
+- Resetting user passwords
+- Unlocking user accounts
+- Enforcing password policies
+- Communicating password reset steps to users
 </p>
 <br />
 
 <p>
   
 ### Tools Used
+- Windows Server 2022
+- Active Directory Users and Computers (ADUC)
 </p>
 <br />
 
