@@ -24,6 +24,7 @@ Practice resetting passwords and managing account lockouts in Active Directory
 </p>
 <br />
 
+### Steps Performed
 <p>
 1. Locate a locked or expired user account
 <img width="1077" height="659" alt="screenshot-step-1-pwr" src="https://github.com/user-attachments/assets/2255e8d3-245a-4e13-80c3-eb3c3c4eb1fa" />
